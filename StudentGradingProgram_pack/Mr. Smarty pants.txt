@@ -1,0 +1,14 @@
+  	Mr. Smarty pants's results
+
+           ITEM              WEIGHT     GRADE     POINTS EARNED
+
+	Project#1              5%        100              5
+	Quiz#1                10%        100             10
+	Project#2              7%        100              7
+	Project#3              8%        100              8
+	Midterm               25%        100             25
+	Final                 35%        100             35
+	Particiapation        10%        100             10
+
+Course grade is 100% 
+  	Mr. Smarty pants PASSED this course
